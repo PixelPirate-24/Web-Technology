@@ -4,9 +4,9 @@ This repository contains a collection of basic web development exercises and exa
 
 ---
 
-## 📚 Contents
+## Contents
 
-### ✅ HTML
+### HTML
 
 1. **List Formatting**
    - Demonstrates use of different bullet types:
@@ -36,7 +36,7 @@ This repository contains a collection of basic web development exercises and exa
 
 ---
 
-### 🎨 CSS
+### CSS
 
 9. **Internal, External, and Inline CSS**
    - Demonstrates all three styles of adding CSS to a webpage
@@ -49,7 +49,7 @@ This repository contains a collection of basic web development exercises and exa
 
 ---
 
-### 💡 JavaScript
+### JavaScript
 
 12. **Simple Arithmetic (Addition & Subtraction)**
     - Basic calculator functions using JavaScript
